@@ -2,7 +2,11 @@
 
 **Course:** UE24CS352A --- Machine Learning\
 **Team:** 5\
-**Team members:** Sri Vaishnavi Peri, Sneha Anand
+**Team members:** 
+Name: Sri Vaishnavi Peri 
+SRN: PES2UG24CS517
+Name: Sneha Anand
+SRN: PES2UG24CS506
 
 ## Problem statement
 
