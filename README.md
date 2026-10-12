@@ -1,6 +1,6 @@
 # Corporate Bankruptcy Prediction
 
-**Course:** UE24CS352A — Machine Learning (Mini-Project)
+**Course:** UE24CS352A - Machine Learning (Mini-Project)
 **Team:** 5
 
 | Name | SRN |
