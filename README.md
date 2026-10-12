@@ -32,7 +32,7 @@ The project uses `3year.arff`, the third-year forecasting file from the UCI Poli
 
 `Corporate_Bankruptcy_Prediction.ipynb` covers data exploration, preprocessing, model training, evaluation plots, feature-importance analysis, model saving and sample predictions.
 
-On a fresh run with the supplied dataset, **XGBoost achieved the highest PR-AUC (0.6089)** and was selected as the final model.
+On a fresh run with the supplied dataset, **XGBoost achieved the highest PR-AUC of 0.6174 and was selected as the final model.
 
 ## Repository Contents
 
